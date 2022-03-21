@@ -12,13 +12,9 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![yy's G](https://github-readme-stats.vercel.app/api?username=ruifengl1&count_private=true&theme=gotham&show_icons=true&hide_border=true)](https://github.com/ruifengl1)<br/>
+[![Ruifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruifengl1&count_private=true&theme=gotham&show_icons=true&hide_border=true)](https://github.com/ruifengl1)<br/>
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
 
