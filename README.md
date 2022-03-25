@@ -17,4 +17,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warren-Wei&count_private=true&theme=graywhite&langs_count=8&layout=compact&card_width=445&hide_border=true)](https://github.com/Warren-Wei/)
+
 
