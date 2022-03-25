@@ -6,7 +6,6 @@ on:
       - main
   schedule:
     # Runs at 7am UTC (12am PST) every day
-    #
     - cron: "* * * * *"
     # Runs every hour
     # - cron: "0 * * * *"
