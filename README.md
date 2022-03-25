@@ -15,6 +15,11 @@
 [![Ruifeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruifengl1&count_private=true&theme=gotham&show_icons=true&hide_border=true)](https://github.com/ruifengl1)<br/>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warren-Wei&count_private=true&theme=graywhite&langs_count=8&layout=compact&card_width=445&hide_border=true)](https://github.com/Warren-Wei/)
