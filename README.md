@@ -1,10 +1,14 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I'm Ruifeng, a Software Engineer.
+#### I'm Ruifeng
 
-- 🌱 I’m currently learning machine learning and deep learning. 
-- 💬 Ask me about Anything
-- 📫 Reach me through email: lawrence.luo@yahoo.com
+- 🧑🏻‍💻 Programming: Python, Java, Typescript, C/C++
+- 💾 Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB), Redis, Hibernate
+- 🖥️ Web Technologies: Angular, Spring, Flask, FastAPI, RESTful APIs
+- 🧠 Machine Learning: MapReduce, NLP, PyTorch, Scikit-learn, Pandas, Numpy
+- ☁️ Infrastructure/Cloud: AWS, DevOps/MLOps, Distributed Systems, Microservices
+- 🧰 Platforms/Tools: Kafka, Databricks, Spark, Docker, Kubernetes, Linux, Maven, Visual Studio, Git, Jira
+
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
