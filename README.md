@@ -1,16 +1,14 @@
 ### Hi, I'm Ruifeng <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-🧑🏻‍💻 Programming: Python, Java, Typescript, C/C++
+🧑🏻‍💻 Programming: Python, Java, TypeScript, C/C++
 
-💾 Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB), Redis, Hibernate
+💾 Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, DynamoDB), Redis, Hibernate
 
 🖥️ Web Technologies: Angular, Spring, Flask, FastAPI, RESTful APIs
 
-🧠 Machine Learning: MapReduce, NLP, PyTorch, Scikit-learn, Pandas, Numpy
+☁️ Infrastructure/Cloud: AWS, DevOps, Distributed Systems, Microservices
 
-☁️ Infrastructure/Cloud: AWS, DevOps/MLOps, Distributed Systems, Microservices
-
-🧰 Platforms/Tools: Kafka, Databricks, Spark, Docker, Kubernetes, Linux, Maven, Visual Studio, Git, Jira
+🧰 Platforms/Tools: Kafka, Spark, Docker, Kubernetes, Linux, Maven, Visual Studio, Git, Jira
 
 
 <!-- - 🔭 I’m currently working on ... -->
